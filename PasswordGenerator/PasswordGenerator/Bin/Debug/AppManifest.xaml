@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="PasswordGenerator" EntryPointType="PasswordGenerator.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="PasswordGenerator" Source="PasswordGenerator.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Samples.Data.Services.Client" Source="Microsoft.Samples.Data.Services.Client.dll" />
+    <AssemblyPart x:Name="WindowsPhoneCloud.StorageClient" Source="WindowsPhoneCloud.StorageClient.dll" />
+  </Deployment.Parts>
+</Deployment>

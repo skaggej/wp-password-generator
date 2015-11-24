@@ -1,0 +1,11 @@
+﻿<xapCache source="C:\Users\eskaggs\SkyDrive\Code\PasswordGenerator\PasswordGenerator\PasswordGenerator\Bin\Release\PasswordGenerator.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="5/2/2012 10:15:44 AM">
+  <file source="C:\Users\eskaggs\SkyDrive\Code\PasswordGenerator\PasswordGenerator\PasswordGenerator\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/27/2012 11:27:30 AM" />
+  <file source="C:\Users\eskaggs\SkyDrive\Code\PasswordGenerator\PasswordGenerator\PasswordGenerator\Background.png" archivePath="Background.png" lastWriteTime="4/23/2012 7:30:18 PM" />
+  <file source="C:\Users\eskaggs\SkyDrive\Code\PasswordGenerator\PasswordGenerator\PasswordGenerator\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="4/23/2012 7:30:18 PM" />
+  <file source="C:\Users\eskaggs\SkyDrive\Code\PasswordGenerator\PasswordGenerator\PasswordGenerator\obj\Release\PasswordGenerator.dll" archivePath="PasswordGenerator.dll" lastWriteTime="5/2/2012 10:15:44 AM" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="3/19/2012 4:29:06 PM" />
+  <file source="C:\WindowsAzure\WATWindowsPhone\Binaries\Microsoft.Samples.Data.Services.Client.dll" archivePath="Microsoft.Samples.Data.Services.Client.dll" lastWriteTime="11/21/2011 1:28:26 PM" />
+  <file source="C:\WindowsAzure\WATWindowsPhone\Binaries\WindowsPhoneCloud.StorageClient.dll" archivePath="WindowsPhoneCloud.StorageClient.dll" lastWriteTime="11/21/2011 1:28:28 PM" />
+  <file source="C:\Users\eskaggs\SkyDrive\Code\PasswordGenerator\PasswordGenerator\PasswordGenerator\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="4/23/2012 7:30:18 PM" />
+  <file source="C:\Users\eskaggs\SkyDrive\Code\PasswordGenerator\PasswordGenerator\PasswordGenerator\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/2/2012 10:09:26 AM" />
+</xapCache>
